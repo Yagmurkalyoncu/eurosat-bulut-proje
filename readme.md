@@ -1,7 +1,7 @@
 # EuroSAT Uydu Görüntüsü Sınıflandırma Projesi
 
 **3522 Bulut Bilişim Dersi — Final Projesi**
-
+youtube link: https://www.youtube.com/watch?v=vWt_2-eupFA
 ## Proje Hakkında
 
 Bu proje, EuroSAT uydu görüntü veri setini kullanarak arazi örtüsü sınıflandırması yapan bir makine öğrenmesi uygulamasıdır. Model, AWS SageMaker üzerinde eğitilmiş ve tahmin sonuçları AWS DynamoDB'ye kaydedilmiştir.
